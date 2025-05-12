@@ -1,2 +1,5 @@
 build/
 .vscode/
+html/
+latex/
+.DS_Store
